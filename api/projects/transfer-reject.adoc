@@ -1,4 +1,4 @@
-To reject the transfer of one projects to your user send a POST request specifying the project id in the url and containing the following data:
+To reject the transfer of one project to your user send a POST request specifying the project id in the url and containing the following data:
 
 - *token*: valid transfer token received by email.
 
